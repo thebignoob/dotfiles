@@ -1,1 +1,2 @@
-# home
+# DotFiles
+My simple bash setup
